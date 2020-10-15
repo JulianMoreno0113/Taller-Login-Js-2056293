@@ -1,0 +1,13 @@
+body{
+    background-color: #DFDFDF;
+}
+#cont{
+    border-radius: 10px;
+    margin-top: 11%;
+}
+.titulo{
+    font-size: 20px;
+}
+label{
+    color: #8C8C8C;
+}
